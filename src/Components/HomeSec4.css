@@ -1,0 +1,35 @@
+html {
+    font-size: 62.5%;
+}
+#container5{
+     width: 100%;
+     height: 60vh;
+     background-color: blue;
+}
+
+#container5_text h1{
+    color: white;
+    text-decoration: underline;
+}
+
+#form_text div{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#btn{
+    margin-top: 20px;
+}
+
+#container5_row{
+    margin-top: -180px;
+}
+
+#container5_text{
+    color: white;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+

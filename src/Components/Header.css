@@ -1,0 +1,39 @@
+
+#top_nav{
+    background-color: black;
+    font-size: 2.0rem;
+    padding: .4rem 2.0rem;
+    position: fixed;
+    z-index: +30;
+    width: 100%;
+} 
+
+#top_nav a{
+    padding-left: 2.5rem;
+    cursor: pointer;;
+}
+
+.navbar-brand {
+    color: red;
+    font-size: 2.5rem
+}
+
+#top_nav a:hover{
+    color: blue;   
+}
+
+#top_nav .navbar-brand:hover{ 
+   color: red;
+}
+
+@media (max-width: 998px) {
+    html{
+      font-size: 55%;
+    }
+  }
+
+  @media (max-width: 768px){
+    html{
+      font-size: 45%;
+    }
+  }
